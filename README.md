@@ -57,7 +57,7 @@ ImprintML supports 8 structured memory types:
 
 ## API Reference
 
-See full documentation at [agentimprint.ai/docs](https://agentimprint.ai/docs)
+See full documentation at [github.com/agentimprint/docs](https://github.com/agentimprint/docs)
 
 ## Patent
 
